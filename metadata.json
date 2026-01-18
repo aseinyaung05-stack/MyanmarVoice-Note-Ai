@@ -1,0 +1,7 @@
+{
+  "name": "Myanmar Voice Note AI",
+  "description": "A smart personal secretary that converts Myanmar voice notes to text, organizes them with AI insights, and generates professional reports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
